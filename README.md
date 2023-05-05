@@ -1,6 +1,4 @@
-### James Attrill/README.md
-
-Hi there, I'm James 👋
+### Hi there, I'm James 👋
 
 I'm an aspiring software developer who has just landed a place on the School of Code bootcamp! (March 2023)
 
