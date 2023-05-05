@@ -2,8 +2,8 @@
 
 I'm an aspiring software developer who has just landed a place on the School of Code bootcamp! (March 2023)
 
-Skills
-JavaScript React HTML5 CSS3 NodeJS Figma
+Skills:
+JavaScript - React - HTML5 - CSS3 - NodeJS - Figma - GitHub
 
 <!--
 **attrill20/attrill20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
