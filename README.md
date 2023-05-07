@@ -1,7 +1,7 @@
 Hi! I'm James
 =============================================================================================================================
 
-I'm an aspiring Full-Stack Developer from Brighton
+I'm a Full-Stack Developer from Brighton
 ------------------------------
 
 * 🌍  I'm a former geography teacher, my transferrable skills are problem solving, breaking down information and collaboration!
