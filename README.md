@@ -1,12 +1,12 @@
-Hi!I'm James
+Hi! I'm James
 =============================================================================================================================
 
-I'm an sspiring Full-Stack Developer from Brighton
+I'm an aspiring Full-Stack Developer from Brighton
 ------------------------------
 
-* 🌍  I'm a former geography teacher, my transferrable skills are problem solving, breaking down information and collaborating with others
-* 🖥️  I'm currently studying on Bootcamp 14 with The School of Code
-* ✉️  You can contact me at [attrill20@gmail.com](mailto:attrill20@gmail.com)
+* 🌍  I'm a former geography teacher, my transferrable skills are problem solving, breaking down information and collaboration!
+* 🖥️  I'm currently studying on Bootcamp 14 with The School of Code.
+* ✉️  You can contact me at [attrill20@gmail.com](mailto:attrill20@gmail.com).
 
 ### Skills
 
