@@ -5,9 +5,10 @@ I'm a Full-Stack Developer from Brighton
 ------------------------------
 
 * 🌍  I'm a former geography teacher, my transferrable skills are problem solving, breaking down information and collaboration!
-* 🖥️  I'm currently studying on Bootcamp 14 with The School of Code.
-* 🧠 I'm currently learning React, Node.js, REST APIs
-* ✉️  You can contact me at [attrill20@gmail.com](mailto:attrill20@gmail.com).
+* 💻  I'm currently studying on Bootcamp 14 with The School of Code
+* 🧠  Currently learning: React, Node.js and REST APIs
+* 👨‍💻  Working on projects: FPL Fixture Difficulty Generator
+* ✉️  You can contact me at [attrill20@gmail.com](mailto:attrill20@gmail.com)
 
 
 ### Skills
