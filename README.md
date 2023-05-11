@@ -4,11 +4,11 @@ Hi, I'm James!
 I'm a Full-Stack Developer from Brighton
 ------------------------------
 
-* 🌍  I'm a former geography teacher, transferrable skills include breaking down information, problem solving and collaboration
-* 💻  Currently studying on Bootcamp 14 with The School of Code
-* 🧠  I'm currently learning: React, Node.js and REST APIs
-* 👨‍💻  Working on projects: FPL Fixture Difficulty Generator
-* ✉️  You can contact me at [attrill20@gmail.com](mailto:attrill20@gmail.com)
+* 🌍   I'm a former geography teacher, transferrable skills include breaking down information, problem solving and collaboration
+* 💻   Currently studying on Bootcamp 14 with The School of Code
+* 🧠   I'm currently learning: React, Node.js and REST APIs
+* 👨‍💻   Working on projects: FPL Fixture Difficulty Generator
+* ✉️    You can contact me at [attrill20@gmail.com](mailto:attrill20@gmail.com)
 
 
 ### Skills
