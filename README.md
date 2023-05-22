@@ -4,7 +4,7 @@ Hi, I'm James!
 I'm a Full-Stack Developer from Brighton
 ------------------------------
 
-* 🌍   I'm a former geography teacher, transferrable skills include breaking down information, problem solving and collaboration
+* 🌍   I'm a former geography teacher - transferrable skills include breaking down information, problem solving and collaboration
 * 💻   Currently studying on Bootcamp 14 with The School of Code
 * 🧠   I'm currently learning: React, Node.js, SQL and REST APIs
 * 👨‍💻   Ongoing side projects (can be found below): FPL Fixture Calendar
