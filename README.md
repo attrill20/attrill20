@@ -5,8 +5,8 @@ I'm a Full-Stack Developer from Brighton
 ------------------------------
 
 * ✅   Open to work - looking for my first tech role in the industry as a Junior Developer
-* 🌍   I'm a former geography teacher - transferrable skills include breaking down information, problem solving and collaboration
 * 💻   Recently graudated from Bootcamp 14 with The School of Code
+* 🌍   I'm a former geography teacher - transferrable skills include breaking down information, problem solving and collaboration
 * 🧠   I'm currently learning: React, TypeScript, SQL and REST APIs
 * 👨‍💻   Ongoing side projects (can be found below): FPL Fixture Calendar, Codewars daily practice
 * ✉️    You can contact me at [attrill20@gmail.com](mailto:attrill20@gmail.com)
