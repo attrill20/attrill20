@@ -5,7 +5,7 @@ I'm a Full-Stack Developer from Brighton
 ------------------------------
 
 * ✅   Open to work - looking for my first tech role in the industry as a Junior Developer
-* 💻   Recently graudated from Bootcamp 14 with The School of Code
+* 💻   Recently graudated from the School of Code on Bootcamp 14
 * 🌍   I'm a former geography teacher - transferrable skills include breaking down information, problem solving and collaboration
 * 🧠   I'm currently learning: Python, TypeScript, SQL and REST APIs
 * 👨‍💻   Ongoing side projects (can be found below): FPL Fixture Calendar, Codewars daily practice
