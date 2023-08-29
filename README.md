@@ -4,10 +4,9 @@ Hi, I'm James!
 I'm a Full-Stack Developer from Brighton
 ------------------------------
 
-* ✅   Open to work - looking for my first tech role in the industry as a Junior Developer
-* 💻   Recently graudated from the School of Code on Bootcamp 14
+* 💻   Recently graudated from the School of Code on Bootcamp 14, now a Junior Software Developer
 * 🌍   I'm a former geography teacher - transferrable skills include breaking down information, problem solving and collaboration
-* 🧠   I'm currently learning: PHP and a bit of C#, Python, TypeScript and SQL
+* 🧠   I'm currently learning: focus on PHP and also a bit of Python, TypeScript and SQL
 * 👨‍💻   Ongoing side projects (can be found below): FPL Fixture Calendar, Codewars daily practice
 * ✉️    You can contact me at [attrill20@gmail.com](mailto:attrill20@gmail.com)
 
