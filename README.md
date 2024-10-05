@@ -7,7 +7,7 @@ I'm a Full-Stack Developer from Brighton
 * 💻   Recently graudated from the School of Code on Bootcamp 14, now a Junior Software Developer
 * 🌍   I'm a former geography teacher - transferrable skills include breaking down information, problem solving and collaboration
 * 🧠   I'm currently learning: focus on PHP and also a bit of Python, TypeScript and SQL
-* 👨‍💻   Ongoing side projects (can be found below): FPL Fixture Calendar, Codewars daily practice
+* 👨‍💻   Ongoing side projects (can be found below): FPL Fixture Calendar, Brighton Points App
 * ✉️    You can contact me at [attrill20@gmail.com](mailto:attrill20@gmail.com)
 
 
